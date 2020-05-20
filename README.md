@@ -1,4 +1,7 @@
+# This not maintained! You should use https://github.com/NatLibFi/Annif/wiki/Usage-with-Docker
+
 # Annif-docker
+
 
 This is an experimental docker setup for [Annif](https://github.com/NatLibFi/Annif.git)
 
